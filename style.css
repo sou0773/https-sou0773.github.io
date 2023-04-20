@@ -35,7 +35,7 @@ header {
 }
 
 .top-img {
-    background-image: url(img/hd-wallpaper-gaefff4cb0_1280.jpg);
+    background-image: url(hd-wallpaper-gaefff4cb0_1280.jpg);
     height: 800px;
     background-size: cover;
 }
@@ -65,7 +65,7 @@ header {
 }
 
 .main {
-    background-image: url(img/tree-g1f4ec6dc0_1280.jpg);
+    background-image: url(tree-g1f4ec6dc0_1280.jpg);
     height: 1000px;
     background-size: cover;
 }
@@ -113,7 +113,7 @@ header {
 }
 
 .item h5 {
-    color: white;
+    color: #ffffff;
     font-weight: 10px;
     font-size: 30px;
     padding-top: 30px;
